@@ -1,6 +1,6 @@
 # NBA Stats Scraper
 
-This Python script scrapes player statlines from a the ESPN using Selenium and writes the data to an Excel file.
+This Python script scrapes player statlines from the ESPN website using Selenium and writes the data to an Excel file.
 
 ## Setup Instructions
 
