@@ -31,7 +31,7 @@ This Python script scrapes player statlines from a the ESPN using Selenium and w
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - Google Chrome (for Selenium)
 - ChromeDriver
 
