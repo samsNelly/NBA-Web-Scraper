@@ -23,7 +23,7 @@ This Python script scrapes player statlines from the ESPN website using Selenium
 
 5. **Run the script**:
 
-    ```python3 NBA_Stats_Scraper.py```
+    ```python3 Scraper.py```
 
 6. **Exit the virtual environment**:
 
